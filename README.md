@@ -44,3 +44,8 @@ A Python VTK renderer displays real-time head orientation and position in 3D at 
 
 ## 🧪 Testing Overview
 Testing included IMU-only measurements, camera-only SLAM accuracy tests, fusion validation, UDP latency tests, TCP RTT estimation, rendering performance evaluation, and power subsystem stress tests. Translation tests across X/Y/Z axes and rotational tests across roll/pitch/yaw confirmed that fused outputs meet system-level accuracy requirements. Battery runtime tests using a Xiaomi 20000 mAh 3 Pro powerbank demonstrated over 4 hours of sustained usage. Communication tests verified stable, low-latency data transfer, and visualization tests achieved smooth rendering at ~32 FPS with acceptable delay. All subsystems successfully met or exceeded the defined requirements.
+
+
+
+[![Demo Video](https://img.youtube.com/vi/4jYGMu5-sZk/0.jpg)](https://youtu.be/4jYGMu5-sZk)
+
